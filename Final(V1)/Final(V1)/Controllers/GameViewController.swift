@@ -187,15 +187,18 @@ class GameViewController: UIViewController {
     
     @IBAction func homr3(_ sender: UIButton) {
         self.performSegue(withIdentifier: "gameToHome", sender: self)
+        playSound()
         stopSound()
     }
     
     @IBAction func currency3(_ sender: UIButton) {
         self.performSegue(withIdentifier: "gameToCurrency", sender: self)
+        playSound()
         stopSound()
     }
     
     @IBAction func game3(_ sender: UIButton) {
+        playSound()
         stopSound()
     }
     

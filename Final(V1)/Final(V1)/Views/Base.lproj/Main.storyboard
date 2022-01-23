@@ -93,7 +93,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <color key="backgroundColor" red="1" green="0.11907233389999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <connections>
                         <segue destination="0xb-4N-VUn" kind="presentation" identifier="homeToCurrency" id="Rx4-VG-l61"/>
@@ -586,9 +586,9 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="r2J-8u-Xmx"/>
-        <segue reference="Vh8-CI-DGi"/>
-        <segue reference="SuQ-Jg-JXR"/>
+        <segue reference="dXD-jI-3hD"/>
+        <segue reference="ARD-o4-68g"/>
+        <segue reference="Rx4-VG-l61"/>
         <segue reference="LWv-JO-ZnY"/>
     </inferredMetricsTieBreakers>
     <resources>
