@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Qj5kbHr7-dogecoin-price-skyrockets-325-crypto-fueled-by-elon-tweets-and-redditors.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Qj5kbHr7-dogecoin-price-skyrockets-325-crypto-fueled-by-elon-tweets-and-redditors@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Qj5kbHr7-dogecoin-price-skyrockets-325-crypto-fueled-by-elon-tweets-and-redditors@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
